@@ -1,0 +1,9 @@
+[2025-11-19 11:59:28] [INFO] Program started
+[2025-11-19 11:59:43] [INFO] Program started
+[2025-11-19 12:00:04] [INFO] Added contact: karan
+[2025-11-19 12:02:25] [INFO] Program started
+[2025-11-19 12:06:20] [INFO] Program started
+[2025-11-19 12:06:39] [INFO] Added contact: Karan Singh
+[2025-11-19 12:06:56] [INFO] Added contact: arsh aggarwal
+[2025-11-19 12:08:01] [INFO] Updated contact: karan
+[2025-11-19 12:08:36] [INFO] Deleted contact: karan
